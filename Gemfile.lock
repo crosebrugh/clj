@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ulutu/yapper
-  revision: eed2e68e00e1bdf9e4e86eae8595c121109a08bf
+  revision: 53f83cb479764cd32b5508c3483227a75125a754
   specs:
     yapper (0.0.1)
       motion-cocoapods (~> 1.4.0)

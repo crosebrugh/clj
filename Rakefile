@@ -13,4 +13,8 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'clj'
+
+  app.pods do
+#    pod 'YapDatabase', git: 'https://github.com/ulutu/YapDatabase'
+  end
 end

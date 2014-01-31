@@ -6,6 +6,8 @@ gem 'rake'
 gem 'cocoapods'
 gem 'motion-cocoapods'
 
-#gem 'yapper', :git => 'https://github.com/kareemk/yapper'
-gem 'yapper', :git => 'https://github.com/ulutu/yapper'
+#gem 'debugger', '>= 1.6.2'
 
+gem 'yapper', :git => 'https://github.com/kareemk/yapper'
+#gem 'motion-logger', git: 'git://github.com/ulutu/motion-logger'
+#gem 'yapper', :git => 'https://github.com/ulutu/yapper'
